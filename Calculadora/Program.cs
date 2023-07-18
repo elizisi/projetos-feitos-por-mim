@@ -104,5 +104,19 @@ class Program
            Menu();
 
         }
+
+        static void Elevado() 
+        {
+           Console.Clear();
+
+           Console.WriteLine("Digite o Número Elevado:");
+           float v1 = float.Parse( Console.ReadLine());
+
+           double Resultado = Math.Pow(v1, 2);
+           Console.WriteLine("O resultado É:" + Resultado);
+           Console.ReadKey();
+           Menu();
+           
+        }
        
 }
