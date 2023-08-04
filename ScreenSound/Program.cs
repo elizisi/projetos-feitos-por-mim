@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-﻿// Screen Sound
+﻿See https://aka.ms/new-console-template for more information
+
 string mensagemDeBoasVindas = "Boas vindas ao Screen Sound";
 //List<string> listaDasBandas = new List<string> { "U2", "The Beatles", "Calypso"};  
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
@@ -68,11 +68,6 @@ void MostrarBandasRegistradas()
 {
     Console.Clear();
     ExibirTituloDaOpcao("Exibindo todas as bandas registradas na nossa aplicação");
-    
-    //for (int i = 0; i < listaDasBandas.Count; i++)
-    //{
-        //Console.WriteLine($"Banda: {listaDasBandas[i]}");
-    //}
 
     foreach (string banda in bandasRegistradas.Keys)
     {
