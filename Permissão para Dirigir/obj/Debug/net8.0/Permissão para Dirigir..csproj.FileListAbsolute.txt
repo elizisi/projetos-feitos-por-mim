@@ -1,0 +1,14 @@
+C:\Users\roger\source\repos\Permissão para Dirigir\bin\Debug\net8.0\Permissão para Dirigir..exe
+C:\Users\roger\source\repos\Permissão para Dirigir\bin\Debug\net8.0\Permissão para Dirigir..deps.json
+C:\Users\roger\source\repos\Permissão para Dirigir\bin\Debug\net8.0\Permissão para Dirigir..runtimeconfig.json
+C:\Users\roger\source\repos\Permissão para Dirigir\bin\Debug\net8.0\Permissão para Dirigir..dll
+C:\Users\roger\source\repos\Permissão para Dirigir\bin\Debug\net8.0\Permissão para Dirigir..pdb
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..AssemblyInfoInputs.cache
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..AssemblyInfo.cs
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..csproj.CoreCompileInputs.cache
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..dll
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\refint\Permissão para Dirigir..dll
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..pdb
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\Permissão para Dirigir..genruntimeconfig.cache
+C:\Users\roger\source\repos\Permissão para Dirigir\obj\Debug\net8.0\ref\Permissão para Dirigir..dll
